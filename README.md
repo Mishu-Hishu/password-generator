@@ -1,4 +1,4 @@
 # password-generator
 
-##live site
+## live site
 https://mishu-hishu.github.io/password-generator/
